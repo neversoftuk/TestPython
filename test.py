@@ -8,5 +8,5 @@ method2('test call');
 p1 = Person("Martin", 44)
 p1.myfunc()
 
-p2 = Person("Martin", 44)
+p2 = Person("Daniel", 13)
 p2.myfunc()
